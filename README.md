@@ -1,5 +1,4 @@
-[index.html](https://github.com/user-attachments/files/34951530/index.html)
-[README.md](https://github.com/user-attachments/files/34951531/README.md)# 我的个人主页
+# 我的个人主页
 
 这是通过 GitHub 作业创建的第一个仓库，用于练习 Git 与 GitHub 的基本操作。
 
